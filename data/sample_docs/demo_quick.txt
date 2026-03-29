@@ -1,0 +1,11 @@
+RAG Demo — Quick Test Document
+
+Retrieval-Augmented Generation (RAG) combines a retrieval system with a language model. The retriever finds relevant passages from a knowledge base, and the LLM uses those passages to write a grounded answer.
+
+ChromaDB is a lightweight, open-source vector database that stores embeddings locally. It supports cosine similarity search and requires no external server setup.
+
+Google Gemini Embedding model (gemini-embedding-001) converts text into high-dimensional vectors. It supports task types: retrieval_document for indexing and retrieval_query for search queries.
+
+Streamlit is a Python framework for building interactive web applications. It supports file uploads, chat interfaces, and dynamic content rendering with minimal boilerplate code.
+
+This prototype system ingests PDF and text files, chunks them, embeds each chunk, stores vectors in ChromaDB, and retrieves the top-K most relevant chunks to answer user questions.

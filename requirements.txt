@@ -1,0 +1,8 @@
+chromadb
+google-generativeai
+langchain
+langchain-text-splitters
+pymupdf
+python-dotenv
+streamlit
+pytest

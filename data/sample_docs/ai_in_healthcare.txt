@@ -1,0 +1,47 @@
+Artificial Intelligence in Healthcare — Overview
+
+Introduction
+Artificial Intelligence (AI) is rapidly transforming healthcare by enabling faster diagnosis, personalised treatment, and operational efficiency. AI applications span radiology, pathology, drug discovery, clinical decision support, and patient monitoring.
+
+Key Application Areas
+
+1. Medical Imaging & Diagnostics
+AI algorithms, especially deep learning convolutional neural networks (CNNs), achieve radiologist-level accuracy in:
+- Detecting cancerous tumours in mammograms and CT scans
+- Identifying diabetic retinopathy from fundus photographs
+- Classifying skin lesions as malignant or benign
+Notable example: Google's DeepMind achieved 94.5% accuracy in breast cancer detection (2020 Nature study), outperforming six radiologists.
+
+2. Drug Discovery & Development
+Traditional drug discovery takes 10–15 years and costs over $2 billion per approved drug.
+AI reduces this by:
+- Predicting protein folding structures (AlphaFold2 — DeepMind, 2021)
+- Screening millions of molecular compounds in silico
+- Identifying drug repurposing candidates for rare diseases
+
+3. Clinical Decision Support
+AI-powered clinical decision support systems (CDSS):
+- Alert clinicians to potential drug-drug interactions
+- Flag sepsis risk in ICU patients hours earlier than standard protocols
+- Recommend evidence-based treatment pathways
+
+4. Natural Language Processing (NLP) in Healthcare
+NLP extracts structured data from free-text clinical notes (EHRs), enabling:
+- Automated medical coding (ICD-10)
+- Patient cohort identification for research
+- Summarisation of patient histories for time-poor clinicians
+
+5. Wearables & Remote Patient Monitoring
+Smartwatches and biosensors collect continuous physiological data:
+- Apple Watch ECG feature detected atrial fibrillation in 0.5% of 400,000 users (Apple Heart Study, 2019)
+- Continuous glucose monitoring reduces HbA1c levels in diabetic patients
+
+Challenges
+- Data privacy and HIPAA/GDPR compliance
+- Algorithmic bias — models trained on non-representative populations
+- Regulatory approval pathways (FDA SaMD guidelines)
+- Clinician trust and explainability (black-box models)
+- Integration with legacy hospital information systems
+
+Future Outlook
+By 2030, AI is expected to contribute $150 billion annually in savings to the US healthcare system alone (Accenture). The priority areas are precision medicine, mental health chatbots, and AI-assisted surgery using robotic platforms.

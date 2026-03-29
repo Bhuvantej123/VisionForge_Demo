@@ -1,0 +1,28 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# ChromaDB persistent storage
+chroma_db/
+
+# Logs
+logs/*.jsonl
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
